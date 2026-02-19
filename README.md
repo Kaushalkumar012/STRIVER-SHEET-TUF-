@@ -1,22 +1,21 @@
 🚀 STRIVER-SHEET-TUF-
-<p align="center"> <b>Striver SDE Sheet Solutions</b><br> Implemented Completely in <b>Java</b> </p>
-📌 Repository Overview
-Category	Details
-Platform	TUF+ (Take U Forward)
-Sheet	Striver SDE Sheet
-Language	Java ☕
-Practice Type	DSA & Interview Preparation
-Status	Ongoing 🚧
-💻 Language Used
-Language : Java
-Concepts : Basic Math, DSA Fundamentals
-IDE      : (VS Code / IntelliJ / Eclipse)
+<p align="center"> <b>Striver SDE Sheet Solutions</b><br> Implemented Completely in <b>Java ☕</b> </p>
+📌 About This Repository
 
-✅ Problems Solved
-✔ Basic Math
-   └── Count All Digits
+Platform: Take U Forward (TUF)
 
-📈 Progress Tracker
+Sheet: Striver SDE Sheet
+
+Language Used: Java
+
+Status: Ongoing
+
+📂 Problems Solved
+🧮 Basic Math
+
+✔ Count All Digits
+
+📊 Progress
 Basic Math      ███░░░░░░░
 Recursion       ░░░░░░░░░░
 Arrays          ░░░░░░░░░░
