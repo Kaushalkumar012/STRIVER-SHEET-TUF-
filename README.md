@@ -1,4 +1,4 @@
-🚀 STRIVER-SHEET-TUF-
+
 <p align="center"> <b>Striver SDE Sheet Solutions</b><br> Implemented Completely in <b>Java ☕</b> </p>
 📌 About This Repository
 
