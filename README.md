@@ -21,6 +21,8 @@
 ### 🧮 Basic Math
 - ✔ Count All Digits
 
+### 🔄 Sorting
+- ✔ Selection Sort
 ---
 
 ## 📊 Progress
