@@ -24,6 +24,7 @@
 
 ### 🔄 Sorting
 - ✔ Selection Sort
+-  ✔ Bubble Sort
 ---
 
 ## 📊 Progress
