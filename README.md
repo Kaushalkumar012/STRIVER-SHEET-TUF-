@@ -20,6 +20,7 @@
 
 ### 🧮 Basic Math
 - ✔ Count All Digits
+- ✔ Count Odd Digits
 
 ### 🔄 Sorting
 - ✔ Selection Sort
@@ -28,7 +29,7 @@
 ## 📊 Progress
 
 ```
-Basic Math     ███░░░░░░░░
+Basic Math     ████░░░░░░░
 Recursion      ░░░░░░░░░░░
 Arrays         ░░░░░░░░░░░
 Binary Search  ░░░░░░░░░░░
