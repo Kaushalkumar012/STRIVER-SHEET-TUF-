@@ -22,6 +22,11 @@
 - ✔ Count All Digits
 - ✔ Count Odd Digits
 
+
+###📦 Arrays
+- ✔ Sum of Array
+
+
 ### 🔄 Sorting
 - ✔ Selection Sort
 -  ✔ Bubble Sort
@@ -33,7 +38,7 @@
 ```
 Basic Math     ████░░░░░░░
 Recursion      ░░░░░░░░░░░
-Arrays         ░░░░░░░░░░░
+Arrays         ██░░░░░░░░░
 Binary Search  ░░░░░░░░░░░
 Linked List    ░░░░░░░░░░░
 ```
