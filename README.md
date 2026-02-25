@@ -25,6 +25,7 @@
 ### 🔄 Sorting
 - ✔ Selection Sort
 -  ✔ Bubble Sort
+-   ✔ Merge Sort
 ---
 
 ## 📊 Progress
