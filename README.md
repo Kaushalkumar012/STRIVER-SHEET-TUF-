@@ -23,7 +23,7 @@
 - ✔ Count Odd Digits
 
 
-### 📦 Arrays
+### 📦 Basic Arrays
 - ✔ Sum of Array
 
 
